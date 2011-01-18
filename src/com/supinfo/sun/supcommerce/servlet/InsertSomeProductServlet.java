@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-public class MyHttpServlet extends HttpServlet {
+public class InsertSomeProductServlet extends HttpServlet {
 
 	/**
 	 * 
